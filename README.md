@@ -3,7 +3,7 @@
 This is a simple Quiz App that fetches questions from the Open Trivia Database API and allows users to answer them. The app keeps track of the user's score and provides feedback on whether the selected answers are correct or incorrect.
 
 ## Screenshot
-![App Screenshot] [
+![alt text](Screenshot1.png)
 
 # Features
 - Fetches quiz questions from the Open Trivia Database API.
@@ -21,7 +21,7 @@ Clone the repository:
 Open the index.html file in your web browser.
 ```
 
-The quiz will start automatically, displaying the first question.
+Use Live Server. The quiz will start automatically, displaying the first question.
 
 Select an answer and click the "Check Answer" button to see if your answer is correct.
 
